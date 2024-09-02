@@ -18,7 +18,6 @@
 
 ### Programming Languages
 <p align="left"> 
-  <h4 align="left">Programming Languages</h4>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a> 
@@ -35,7 +34,6 @@
 
 ### Front-End Development
 <p align="left"> 
-    <h4 align="left">Front-End Development</h4>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a>
@@ -49,7 +47,6 @@
 
 ### Back-End Development
 <p align="left"> 
-   <h4 align="left">Back-End Development</h4>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   </a>
@@ -63,7 +60,6 @@
 
 ### Databases
 <p align="left"> 
-   <h4 align="left">Databases</h4>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> 
@@ -80,7 +76,6 @@
 
 ### Development Tools
 <p align="left"> 
-  <h4 align="left">Development Tools</h4>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
@@ -91,7 +86,6 @@
 
 ### Design Tools
 <p align="left"> 
-  <h4 align="left">Design Tools</h4>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> 
@@ -102,7 +96,6 @@
 
 ### Other Technologies
 <p align="left"> 
-  <h4 align="left">Other Technologies</h4>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
   </a>
